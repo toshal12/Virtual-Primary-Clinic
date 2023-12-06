@@ -2,7 +2,7 @@
 Revolutionize healthcare with a virtual platform integrating Arduino UNO, HTML, CSS, PHP, and XAMPP. Enhance accessibility, efficiency, and patient-provider interaction. Manage appointments, patients, doctors, and specializations for a comprehensive healthcare solution.
 
 Key Features:<br>
---User Authentication: Patients, doctors, and administrators have secure login systems with distinct permissions and functionalities.
+<bold>--User Authentication:<bold> Patients, doctors, and administrators have secure login systems with distinct permissions and functionalities.
 
 --Appointment Booking: Patients can easily book appointments with doctors based on availability, while doctors can view and manage their upcoming appointments.
 
